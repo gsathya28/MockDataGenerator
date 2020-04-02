@@ -1,0 +1,22 @@
+{
+  "name": "mock-data-generator",
+  "version": "1.0.0",
+  "description": "Mock JSON Data Generator using wordlists",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsathya28/MockDataGenerator.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Sathya Govindarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsathya28/MockDataGenerator/issues"
+  },
+  "homepage": "https://github.com/gsathya28/MockDataGenerator#readme"
+}
