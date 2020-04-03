@@ -22,5 +22,5 @@ node app
 generate <template name> <number> 
 ```
 
-This will generate a JSON array of size <number> in /outputs/<template name>.json
+This will generate a JSON array of size number in /outputs/template-name.json
 
