@@ -1,5 +1,11 @@
 # MockDataGenerator
 Mock JSON Data Generator using wordlists
+Note that this is a VERY crude program as of now. Will fix as necessary.
+Priorities:
+    Test edge cases
+    Add template flexibility
+    Add nested object functionality for templates
+    Add a lot of error handling
 
 ## Installation
 

@@ -1,0 +1,31 @@
+Templates:
+
+Templates have a certain format to follow
+
+As of now each object can have properties of type:
+    INT(start,end)      - an integer in the range start (inc.) to end (exc.)
+    FLT(start,end)      - an floating-point in the range start (inc.) to end (exc.)
+    STR(str1,str2,...)  - a string from the strings given
+    BLN                 - a boolean (true or false)
+    UID                 - A UUID v6 string
+    filename.txt        - A wordlist file in the /wordlist directory
+
+The data generator will parse this template, and generate values
+given these parameters. 
+
+Note this is a hard configuration. 
+Note that there are no spaces in properties.
+For example, don't do this: INT(5 , 7)
+I will fix this soon. Should be an easy fix. Just tired rn.
+
+Will also add nested object functionality soon.
+For a good example: Look at part.json
+
+
+
+
+
+
+
+
+
