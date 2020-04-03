@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/gsathya28/MockDataGenerator/issues"
   },
-  "homepage": "https://github.com/gsathya28/MockDataGenerator#readme"
+  "homepage": "https://github.com/gsathya28/MockDataGenerator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "uuid": "^7.0.3"
+  }
 }

@@ -1,0 +1,51 @@
+[
+    {
+        "name": "PPE",
+        "id": "ac733a46-b423-4e34-8f84-d76487cf30b3",
+        "price": 3.80046336511686,
+        "rating": 1,
+        "verified": false
+    },
+    {
+        "name": "PVC Pipe",
+        "id": "38c5e78c-caaa-46ec-8191-ff2d75852671",
+        "price": 8.79990188238744,
+        "rating": 3,
+        "verified": false
+    },
+    {
+        "name": "Ventilator Valve",
+        "id": "56f17d57-278e-4f87-9e62-2598b9a7dd5b",
+        "price": 6.44083536638618,
+        "rating": 3,
+        "verified": false
+    },
+    {
+        "name": "Bananas",
+        "id": "59bca54a-81f4-4ca8-bdd5-5a6910d6e200",
+        "price": 11.006170023545362,
+        "rating": 0,
+        "verified": false
+    },
+    {
+        "name": "PVC Pipe",
+        "id": "0d188937-3139-43f4-9c50-553f9a0dd8d9",
+        "price": 4.271876094656458,
+        "rating": 3,
+        "verified": false
+    },
+    {
+        "name": "PPE",
+        "id": "27909fc0-02df-4a84-b750-6012d8b05814",
+        "price": 11.978945459495767,
+        "rating": 4,
+        "verified": false
+    },
+    {
+        "name": "PVC Pipe",
+        "id": "df0519f9-1868-4af3-b375-a7daf8b9fd91",
+        "price": 11.485253035909045,
+        "rating": 2,
+        "verified": false
+    }
+]

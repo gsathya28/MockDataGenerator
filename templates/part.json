@@ -1,0 +1,7 @@
+{
+    "name": "partwords.txt",
+    "id": "UID",
+    "price": "FLT(2,12)",
+    "rating": "INT(0,6)",
+    "verified": "BLN"
+}
